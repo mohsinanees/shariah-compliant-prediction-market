@@ -611,6 +611,10 @@ Mitigation:
 - Anomaly detection algorithms
 ```
 
+## Key Challenges
+
+- ⁠**Gambling appeal:** Polymarket thrives on dopamine/addiction through gambling (easy $500 against $100) without any actual work - our "work-for-pay" model removes the speculative thrill that drives volume
+- **Sponsor acquisition:** Hard to convince institutions to pay upfront without proven track record
 
 ## Conclusion
 
@@ -620,19 +624,6 @@ A Shariah-compliant prediction market can work by fundamentally restructuring th
 - $3+ trillion Islamic finance industry needs market intelligence
 - No halal alternatives exist
 - First-mover advantage
-- Strategic fit with Tharwa ecosystem
-
-**But execution matters:**
-- Must secure institutional sponsors upfront
-- Requires dedicated team and proper funding
-- Shariah board approval is non-negotiable
-- Can't be a distraction from core products
-
-**The right path depends on Tharwa's resources and relationships:**
-- **Strong institutional network** → B2B platform (Option 1)
-- **Building relationships** → Niche bootstrap (Option 2)
-
-**Recommended Next Step:** Spend the next 30 days validating institutional demand. Present to 10-15 Islamic finance institutions and gauge willingness to sponsor pilot pools. If 5+ commit $50K-$100K each, proceed with full development. If 2-3 commit, start with niche bootstrap approach.
 
 ---
 
